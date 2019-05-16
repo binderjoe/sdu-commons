@@ -1,0 +1,17 @@
+{
+  "ResourceTypeID": "srn:type:master-data/Well:",
+  "ResourceSecurityClassification": "srn:reference-data/ResourceSecurityClassification:RESTRICTED:",
+  "Data": {
+    "GroupTypeProperties": {},
+    "IndividualTypeProperties": {
+      "FacilityID": "8374208741",
+      "FacilityTypeID": "srn:reference-data/FacilityType:Well:",
+      "CurrentOperatorOrganisationID": [
+        "srn:master-data/Organisation:SomeOrganisation:"
+      ],
+      "OriginalOperatorOrganisationID": "srn:master-data/Organisation:SomeOrganisation:",
+      "DataSourceOrganisationID": "srn:master-data/Organisation:SomeOrganisation:"
+    },
+    "ExtensionProperties": {}
+  }
+}

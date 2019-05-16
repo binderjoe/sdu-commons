@@ -1,0 +1,69 @@
+{
+  "WorkProduct": {
+    "ResourceTypeID": "srn:type:work-product/Unknown:",
+    "ResourceSecurityClassification": "srn:reference-data/ResourceSecurityClassification:MOST-CONFIDENTIAL:",
+    "Data": {
+      "GroupTypeProperties": {
+        "Components": []
+      },
+      "IndividualTypeProperties": {
+        "Name": "Test work-product/Unknown",
+        "Description": "Work product for integration testing",
+        "CreationDateTime": "2018-11-19",
+        "Tags": [
+          "test",
+          "integration-test"
+        ],
+        "SubmitterName": "client integration tests"
+      },
+      "ExtensionProperties": {
+      }
+    },
+    "ComponentsAssociativeIDs": [
+      "WPC-1"
+    ]
+  },
+  "WorkProductComponents": [
+    {
+      "AssociativeID": "WPC-1",
+      "ResourceTypeID": "srn:type:work-product-component/Unknown:",
+      "ResourceSecurityClassification": "srn:reference-data/ResourceSecurityClassification:MOST-CONFIDENTIAL:",
+      "Data": {
+        "GroupTypeProperties": {
+          "Files": [],
+          "Artefacts": []
+        },
+        "IndividualTypeProperties": {
+          "Name": "Test work-product-component/Unknown",
+          "Description": "Work product component for integration testing",
+          "CreationDateTime": "2018-11-19",
+          "Tags": [
+            "test",
+            "integration-test"
+          ],
+          "SubmitterName": "client integration tests"
+        },
+        "ExtensionProperties": {
+
+        }
+      },
+      "FileAssociativeIDs": [
+        "f-1"
+      ]
+    }
+  ],
+  "Files": [
+    {
+      "AssociativeID": "f-1",
+      "ResourceTypeID": "srn:type:file/free_txt:",
+      "ResourceSecurityClassification": "srn:reference-data/ResourceSecurityClassification:RESTRICTED:",
+      "Data": {
+        "GroupTypeProperties": {
+          "FileSource": "dummy_test_file.txt"
+        },
+        "IndividualTypeProperties": {},
+        "ExtensionProperties": {}
+      }
+    }
+  ]
+}

@@ -1,0 +1,265 @@
+{
+  "WorkProduct": {
+    "ResourceTypeID": "srn:type:work-product/Unknown:",
+    "ResourceSecurityClassification": "srn:reference-data/ResourceSecurityClassification:RESTRICTED:",
+    "Data": {
+      "GroupTypeProperties": {
+        "Description": "N1pejK2q6N2qOYittBms",
+        "Schema": "N1pejK2q6N2qOYittBms",
+        "RequireKey": true,
+        "Components": []
+      },
+      "IndividualTypeProperties": {
+        "Name": "N1pejK2q6N2qOYittBms",
+        "Description": "N1pejK2q6N2qOYittBms",
+        "CreationDateTime": "2018-12-06T07:58:13.037284",
+        "Tags": [
+          "N1pejK2q6N2qOYittBms"
+        ],
+        "SpatialPoint": {
+          "SpatialLocationCoordinatesDate": "2018-12-06T07:58:13.037284",
+          "QuantitativeAccuracyBandID": "srn:reference-data/QuantitativeAccuracyBand:SomeBand:",
+          "QualitativeSpatialAccuracyTypeID": "srn:reference-data/QualitativeSpatialAccuracyType:High:",
+          "CoordinateQualityCheckPerformedBy": "N1pejK2q6N2qOYittBms5LVOnFv1h5zrhz6Mxc1eIeV5c5YqX4vR5A2gWsITVt2JEPe2huDnbTZ71eaz6MSEwKSNi9jVjDJErHap",
+          "CoordinateQualityCheckDateTime": "2018-12-06T07:58:13.037284",
+          "CoordinateQualityCheckRemark": "N1pejK2q6N2qOYittBms5LVOnFv1h5zrhz6Mxc1eIeV5c5YqX4vR5A2gWsITVt2JEPe2huDnbTZ71eaz6MSEwKSNi9jVjDJErHapPtris8LpHl8cRDopCjCbRvHzBi5bZzKR66ywXRz93rfSkNz0j0glrXBgNl3cNpN05UxzrGHWRjXKwYRmBLLGNXBsd3Vhs9Ey0Plihgg3Y66bOG4JNlR8UBfmuhXY0bX2QirNyIXX9sf9rMPEUncgqDRwdmkbqsGvORhBisFdFA3Oa8YIdAhI5Yl8jjYoK3akTe31rxZGqIDfULWl9dZkqokenNlQT3AF0pGCvZ6kQX7WELuIUC1E3Etj12xnofiHKmVpUyqZrWqDaiVRwvQd0jfCh9UkRLkxjIHJ9ssguD82qHTnq14PNPVJ6KPNwDvtCz8U2y1CazR1YK7ofGhyBgwLz7317uXuAfIiR0GNV7kAu3Vx8bXrAMtQ056P3gxfMV8SkJzfhm2Yg227iBYGP0hQThhEPr1tybWciSzWwou8YoE6nYITWO9DraEbA6odREqkoNzryUAnIvGX6pg8FUyfROC4kuK1waD2GT7oXwoUBSr5OSjCJeyN864pGppklHuXGPxnNqRfMZYLtAQw7ihcJ6oUqABitumx40E7lxiR4Y84Fms5JEFfUfdluNr6nXqGsaftUzgMDzofuRV5LmV5UPSXBQV32OoAPNtDIEi9pRn3HPUNf0xrrOYleLSIw4AXjH38hsUHRxt1h3EmzWMhidabearhFxP6jyMWmzTd7tGrVOJ6wGYhpd0hBd98tamwFx3jyorpeni1Ri2bVSkBNiOEJNIIZVelXzXyQigLnPKWSqUSTmnO1y6rqOhLFyQ2vICRCIt78NrJMna4FTWoAZolUj7Es9e1rZHApDn0z6G4x2ujTMIoGNOeXk7QXL0wfG1lklWXEZ4R8RWN5w05dFW1apsGhU2c4O8txaQHFDb47IZpxPm8Peeb4yJAZNc5",
+          "ProjectedCoordinates": [
+            {
+              "x": 0.2110105815350678,
+              "y": 0.2110105815350678
+            }
+          ],
+          "GeographicCoordinates": [
+            {
+              "x": 0.2110105815350678,
+              "y": 0.2110105815350678
+            }
+          ],
+          "SpatialParameterTypeID": "srn:reference-data/SpatialParameterType:someSpatialParameterType:",
+          "SpatialGeometryTypeID": "srn:reference-data/SpatialGeometryType:someSpatialGeometryType:",
+          "VerticalCRSID": "srn:reference-data/VerticalCRS:someVerticalCRS:",
+          "HorizontalCRSID": "srn:reference-data/HorizontalCRS:WGS84:",
+          "CoordinateTranformation": "srn:reference-data/AbstractCoordinateTranformation:someAbstractCoordinateTranformation:",
+          "MeasuredDepth": 0.2110105815350678,
+          "MeasuredDepthUOMID": "srn:reference-data/UnitOfMeasure:Meter:",
+          "ProjectedCoordinatesUOMID": "srn:reference-data/UnitOfMeasure:Meter:",
+          "GeographicCoordinatesUOMID": "srn:reference-data/UnitOfMeasure:Meter:",
+          "Preferred": true
+        },
+        "SpatialArea": {
+          "SpatialLocationCoordinatesDate": "2018-12-06T07:58:13.037284",
+          "QuantitativeAccuracyBandID": "srn:reference-data/QuantitativeAccuracyBand:SomeBand:",
+          "QualitativeSpatialAccuracyTypeID": "srn:reference-data/QualitativeSpatialAccuracyType:High:",
+          "CoordinateQualityCheckPerformedBy": "N1pejK2q6N2qOYittBms5LVOnFv1h5zrhz6Mxc1eIeV5c5YqX4vR5A2gWsITVt2JEPe2huDnbTZ71eaz6MSEwKSNi9jVjDJErHap",
+          "CoordinateQualityCheckDateTime": "2018-12-06T07:58:13.037284",
+          "CoordinateQualityCheckRemark": "N1pejK2q6N2qOYittBms5LVOnFv1h5zrhz6Mxc1eIeV5c5YqX4vR5A2gWsITVt2JEPe2huDnbTZ71eaz6MSEwKSNi9jVjDJErHapPtris8LpHl8cRDopCjCbRvHzBi5bZzKR66ywXRz93rfSkNz0j0glrXBgNl3cNpN05UxzrGHWRjXKwYRmBLLGNXBsd3Vhs9Ey0Plihgg3Y66bOG4JNlR8UBfmuhXY0bX2QirNyIXX9sf9rMPEUncgqDRwdmkbqsGvORhBisFdFA3Oa8YIdAhI5Yl8jjYoK3akTe31rxZGqIDfULWl9dZkqokenNlQT3AF0pGCvZ6kQX7WELuIUC1E3Etj12xnofiHKmVpUyqZrWqDaiVRwvQd0jfCh9UkRLkxjIHJ9ssguD82qHTnq14PNPVJ6KPNwDvtCz8U2y1CazR1YK7ofGhyBgwLz7317uXuAfIiR0GNV7kAu3Vx8bXrAMtQ056P3gxfMV8SkJzfhm2Yg227iBYGP0hQThhEPr1tybWciSzWwou8YoE6nYITWO9DraEbA6odREqkoNzryUAnIvGX6pg8FUyfROC4kuK1waD2GT7oXwoUBSr5OSjCJeyN864pGppklHuXGPxnNqRfMZYLtAQw7ihcJ6oUqABitumx40E7lxiR4Y84Fms5JEFfUfdluNr6nXqGsaftUzgMDzofuRV5LmV5UPSXBQV32OoAPNtDIEi9pRn3HPUNf0xrrOYleLSIw4AXjH38hsUHRxt1h3EmzWMhidabearhFxP6jyMWmzTd7tGrVOJ6wGYhpd0hBd98tamwFx3jyorpeni1Ri2bVSkBNiOEJNIIZVelXzXyQigLnPKWSqUSTmnO1y6rqOhLFyQ2vICRCIt78NrJMna4FTWoAZolUj7Es9e1rZHApDn0z6G4x2ujTMIoGNOeXk7QXL0wfG1lklWXEZ4R8RWN5w05dFW1apsGhU2c4O8txaQHFDb47IZpxPm8Peeb4yJAZNc5",
+          "ProjectedCoordinates": [
+            {
+              "x": 0.2110105815350678,
+              "y": 0.2110105815350678
+            }
+          ],
+          "GeographicCoordinates": [
+            {
+              "x": 0.2110105815350678,
+              "y": 0.2110105815350678
+            }
+          ],
+          "SpatialParameterTypeID": "srn:reference-data/SpatialParameterType:someSpatialParameterType:",
+          "SpatialGeometryTypeID": "srn:reference-data/SpatialGeometryType:someSpatialGeometryType:",
+          "VerticalCRSID": "srn:reference-data/VerticalCRS:someVerticalCRS:",
+          "HorizontalCRSID": "srn:reference-data/HorizontalCRS:WGS84:",
+          "CoordinateTranformation": "srn:reference-data/AbstractCoordinateTranformation:someAbstractCoordinateTranformation:",
+          "MeasuredDepth": 0.2110105815350678,
+          "MeasuredDepthUOMID": "srn:reference-data/UnitOfMeasure:Meter:",
+          "ProjectedCoordinatesUOMID": "srn:reference-data/UnitOfMeasure:Meter:",
+          "GeographicCoordinatesUOMID": "srn:reference-data/UnitOfMeasure:Meter:",
+          "Preferred": true
+        },
+        "SubmitterName": "N1pejK2q6N2qOYittBms",
+        "BusinessActivites": [
+          "N1pejK2q6N2qOYittBms"
+        ],
+        "AuthorIDs": [
+          "N1pejK2q6N2qOYittBms"
+        ],
+        "LineageAssertions": [
+          {
+            "ID": "srn:work-product/NpejKqNqOYittBm:someNpejKqNqOYittBm:",
+            "RelationshipType": null
+          }
+        ],
+        "Annotations": [
+          "N1pejK2q6N2qOYittBms"
+        ]
+      },
+      "ExtensionProperties": {}
+    },
+    "ComponentsAssociativeIDs": [
+      "wpc-1"
+    ]
+  },
+  "WorkProductComponents": [
+    {
+      "ResourceTypeID": "srn:type:work-product-component/Unknown:",
+      "ResourceSecurityClassification": "srn:reference-data/ResourceSecurityClassification:RESTRICTED:",
+      "Data": {
+        "GroupTypeProperties": {
+          "Description": "g5SV0paoe8cgepmOQ63q",
+          "Schema": "g5SV0paoe8cgepmOQ63q",
+          "RequireKey": true,
+          "Files": [],
+          "Artefacts": [
+            {
+              "RoleID": "srn:type:artefact-role/[A-Za-z]+:",
+              "ResourceTypeID": "srn:type:artefact/[A-Za-z]+:",
+              "ResourceID": "srn:artefact/gSVpaoecgepmOQq:somegSVpaoecgepmOQq:"
+            }
+          ]
+        },
+        "IndividualTypeProperties": {
+          "Name": "g5SV0paoe8cgepmOQ63q",
+          "Description": "g5SV0paoe8cgepmOQ63q",
+          "CreationDateTime": "2018-12-06T07:58:13.037284",
+          "Tags": [
+            "g5SV0paoe8cgepmOQ63q"
+          ],
+          "SpatialPoint": {
+            "SpatialLocationCoordinatesDate": "2018-12-06T07:58:13.037284",
+            "QuantitativeAccuracyBandID": "srn:reference-data/QuantitativeAccuracyBand:SomeBand:",
+            "QualitativeSpatialAccuracyTypeID": "srn:reference-data/QualitativeSpatialAccuracyType:High:",
+            "CoordinateQualityCheckPerformedBy": "g5SV0paoe8cgepmOQ63qBb9pTN6dQhv2sKXGB2SSRGE3qDlkgwrcjbzAkQsH82HkmJH2J8XvhQUbP6W93B9rVjVTwMbIqFQfhYgJ",
+            "CoordinateQualityCheckDateTime": "2018-12-06T07:58:13.037284",
+            "CoordinateQualityCheckRemark": "g5SV0paoe8cgepmOQ63qBb9pTN6dQhv2sKXGB2SSRGE3qDlkgwrcjbzAkQsH82HkmJH2J8XvhQUbP6W93B9rVjVTwMbIqFQfhYgJUWVb480equkKRaK5ZxlnI9mpE1z4XBdIDGKoog9KZb1o1tVeDlZpNdGMWatKBFeeLOcl2ByXr37DlXkdOMeZebhojPeV1wrQID7pNUbWCXcFCOjuNEmt02BJaXLfDaNvDXNmoKhKSY2UqgVN8w2dVJeBr0zGuC4jdKqhIHtuy7whQ4xl52LwYD6ay1jAmH1V7y4CGZDj1gzk7dTCYVwBtONPRlHzbdcceKNqRUP5tbbL8j0sihfgTA30abRVbIfV2lMEjYb3B7Tyt4u5X1lkIF1VrQLw7qcvBLA1ePcv0rMaVEpwnFQiceoAtCtTP5uhUJoSLmO0FPfm46f8styT2NpPkDs2SccykhYU2GzNxjJ912t6Dv3APpzRDlFdw0SazXrJnE9RbPl1xyGXJ0yzLCwh6gm28AikLAT0Y96Lc2NHuxvQ9ZDRMBpzpuvRmUGi2gAqYAWM6Eh61RRufDliGjkkQ5GoagOEHaVJjRDbcUodmP1veAloAu4hIJfvfoD58ElvzvraFdKMAibmQo2sAe7C1nAwAMYGOT0v3jJOPD3QzytJa5YDEwkhuA7X3hROrE4HZMrz5WsHA9UfI2tifAFU3Ir9qoqdjRLlN2rS0DwRMOPjMzijEgcxk8qLnzIJOFibo1VtHwRyUW4cWznAdeSCQPcZxwhd7GnEgHi0StD42Dv0sKq42mTJn5cbBAzp14n3DncRbUovY9EvRpk6RXV3zOjLzcQYNmWHf9XCA0KB60Hq1zWN2eDtXK8yyuH3WoH4V6w8zdxD8beJdR92owFeNnc2xg9zSXmFVtKZexKEvZa2EoxV3l1JHYY1GanFfJPRfgot1sFD9hAAaGLOLQrzcU28rkXq2acVJ9fVa6RmjA9M40TetiO9A4ciSkgvEjDd",
+            "ProjectedCoordinates": [
+              {
+                "x": 0.5104104197852433,
+                "y": 0.5104104197852433
+              }
+            ],
+            "GeographicCoordinates": [
+              {
+                "x": 0.5104104197852433,
+                "y": 0.5104104197852433
+              }
+            ],
+            "SpatialParameterTypeID": "srn:reference-data/SpatialParameterType:someSpatialParameterType:",
+            "SpatialGeometryTypeID": "srn:reference-data/SpatialGeometryType:someSpatialGeometryType:",
+            "VerticalCRSID": "srn:reference-data/VerticalCRS:someVerticalCRS:",
+            "HorizontalCRSID": "srn:reference-data/HorizontalCRS:WGS84:",
+            "CoordinateTranformation": "srn:reference-data/AbstractCoordinateTranformation:someAbstractCoordinateTranformation:",
+            "MeasuredDepth": 0.5104104197852433,
+            "MeasuredDepthUOMID": "srn:reference-data/UnitOfMeasure:Meter:",
+            "ProjectedCoordinatesUOMID": "srn:reference-data/UnitOfMeasure:Meter:",
+            "GeographicCoordinatesUOMID": "srn:reference-data/UnitOfMeasure:Meter:",
+            "Preferred": false
+          },
+          "SpatialArea": {
+            "SpatialLocationCoordinatesDate": "2018-12-06T07:58:13.037284",
+            "QuantitativeAccuracyBandID": "srn:reference-data/QuantitativeAccuracyBand:SomeBand:",
+            "QualitativeSpatialAccuracyTypeID": "srn:reference-data/QualitativeSpatialAccuracyType:High:",
+            "CoordinateQualityCheckPerformedBy": "g5SV0paoe8cgepmOQ63qBb9pTN6dQhv2sKXGB2SSRGE3qDlkgwrcjbzAkQsH82HkmJH2J8XvhQUbP6W93B9rVjVTwMbIqFQfhYgJ",
+            "CoordinateQualityCheckDateTime": "2018-12-06T07:58:13.037284",
+            "CoordinateQualityCheckRemark": "g5SV0paoe8cgepmOQ63qBb9pTN6dQhv2sKXGB2SSRGE3qDlkgwrcjbzAkQsH82HkmJH2J8XvhQUbP6W93B9rVjVTwMbIqFQfhYgJUWVb480equkKRaK5ZxlnI9mpE1z4XBdIDGKoog9KZb1o1tVeDlZpNdGMWatKBFeeLOcl2ByXr37DlXkdOMeZebhojPeV1wrQID7pNUbWCXcFCOjuNEmt02BJaXLfDaNvDXNmoKhKSY2UqgVN8w2dVJeBr0zGuC4jdKqhIHtuy7whQ4xl52LwYD6ay1jAmH1V7y4CGZDj1gzk7dTCYVwBtONPRlHzbdcceKNqRUP5tbbL8j0sihfgTA30abRVbIfV2lMEjYb3B7Tyt4u5X1lkIF1VrQLw7qcvBLA1ePcv0rMaVEpwnFQiceoAtCtTP5uhUJoSLmO0FPfm46f8styT2NpPkDs2SccykhYU2GzNxjJ912t6Dv3APpzRDlFdw0SazXrJnE9RbPl1xyGXJ0yzLCwh6gm28AikLAT0Y96Lc2NHuxvQ9ZDRMBpzpuvRmUGi2gAqYAWM6Eh61RRufDliGjkkQ5GoagOEHaVJjRDbcUodmP1veAloAu4hIJfvfoD58ElvzvraFdKMAibmQo2sAe7C1nAwAMYGOT0v3jJOPD3QzytJa5YDEwkhuA7X3hROrE4HZMrz5WsHA9UfI2tifAFU3Ir9qoqdjRLlN2rS0DwRMOPjMzijEgcxk8qLnzIJOFibo1VtHwRyUW4cWznAdeSCQPcZxwhd7GnEgHi0StD42Dv0sKq42mTJn5cbBAzp14n3DncRbUovY9EvRpk6RXV3zOjLzcQYNmWHf9XCA0KB60Hq1zWN2eDtXK8yyuH3WoH4V6w8zdxD8beJdR92owFeNnc2xg9zSXmFVtKZexKEvZa2EoxV3l1JHYY1GanFfJPRfgot1sFD9hAAaGLOLQrzcU28rkXq2acVJ9fVa6RmjA9M40TetiO9A4ciSkgvEjDd",
+            "ProjectedCoordinates": [
+              {
+                "x": 0.5104104197852433,
+                "y": 0.5104104197852433
+              }
+            ],
+            "GeographicCoordinates": [
+              {
+                "x": 0.5104104197852433,
+                "y": 0.5104104197852433
+              }
+            ],
+            "SpatialParameterTypeID": "srn:reference-data/SpatialParameterType:someSpatialParameterType:",
+            "SpatialGeometryTypeID": "srn:reference-data/SpatialGeometryType:someSpatialGeometryType:",
+            "VerticalCRSID": "srn:reference-data/VerticalCRS:someVerticalCRS:",
+            "HorizontalCRSID": "srn:reference-data/HorizontalCRS:WGS84:",
+            "CoordinateTranformation": "srn:reference-data/AbstractCoordinateTranformation:someAbstractCoordinateTranformation:",
+            "MeasuredDepth": 0.5104104197852433,
+            "MeasuredDepthUOMID": "srn:reference-data/UnitOfMeasure:Meter:",
+            "ProjectedCoordinatesUOMID": "srn:reference-data/UnitOfMeasure:Meter:",
+            "GeographicCoordinatesUOMID": "srn:reference-data/UnitOfMeasure:Meter:",
+            "Preferred": false
+          },
+          "SubmitterName": "g5SV0paoe8cgepmOQ63q",
+          "BusinessActivites": [
+            "g5SV0paoe8cgepmOQ63q"
+          ],
+          "AuthorIDs": [
+            "g5SV0paoe8cgepmOQ63q"
+          ],
+          "LineageAssertions": [
+            {
+              "ID": "srn:work-product/gSVpaoecgepmOQq:somegSVpaoecgepmOQq:",
+              "RelationshipType": null
+            }
+          ],
+          "Annotations": [
+            "g5SV0paoe8cgepmOQ63q"
+          ]
+        },
+        "ExtensionProperties": {}
+      },
+      "AssociativeID": "wpc-1",
+      "FileAssociativeIDs": [
+        "f-1",
+        "f-2",
+        "f-3",
+        "f-4"
+      ]
+    }
+  ],
+  "Files": [
+    {
+      "AssociativeID": "f-1",
+      "ResourceTypeID": "srn:type:file/PLY:",
+      "ResourceSecurityClassification": "srn:reference-data/ResourceSecurityClassification:RESTRICTED:",
+      "Data": {
+        "GroupTypeProperties": {
+          "FileSource": "geosyn2/geosyn2.ply"
+        },
+        "IndividualTypeProperties": {},
+        "ExtensionProperties": {}
+      }
+    },
+    {
+      "AssociativeID": "f-2",
+      "ResourceTypeID": "srn:type:file/nDI-slm:",
+      "ResourceSecurityClassification": "srn:reference-data/ResourceSecurityClassification:RESTRICTED:",
+      "Data": {
+        "GroupTypeProperties": {
+          "FileSource": "geosyn2/geosyn2.ply.slm"
+        },
+        "IndividualTypeProperties": {},
+        "ExtensionProperties": {}
+      }
+    },
+    {
+      "AssociativeID": "f-3",
+      "ResourceTypeID": "srn:type:file/QEN:",
+      "ResourceSecurityClassification": "srn:reference-data/ResourceSecurityClassification:RESTRICTED:",
+      "Data": {
+        "GroupTypeProperties": {
+          "FileSource": "geosyn2/geosyn2.ply.qen"
+        },
+        "IndividualTypeProperties": {},
+        "ExtensionProperties": {}
+      }
+    },
+    {
+      "AssociativeID": "f-4",
+      "ResourceTypeID": "srn:type:file/QCB:",
+      "ResourceSecurityClassification": "srn:reference-data/ResourceSecurityClassification:RESTRICTED:",
+      "Data": {
+        "GroupTypeProperties": {
+          "FileSource": "geosyn2/geosyn2.ply.qcb"
+        },
+        "IndividualTypeProperties": {},
+        "ExtensionProperties": {}
+      }
+    }
+  ]
+}
